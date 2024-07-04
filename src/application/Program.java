@@ -9,5 +9,8 @@ package application;
  * @author Isaac Duarte
  */
 public class Program {
-    
+    public static void main(String[] args) {
+        
+    }
+ 
 }
